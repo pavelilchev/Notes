@@ -1,0 +1,9 @@
+D:\Paco\Notes\Notes.Models\bin\Debug\netcoreapp2.0\Notes.Models.deps.json
+D:\Paco\Notes\Notes.Models\bin\Debug\netcoreapp2.0\Notes.Models.dll
+D:\Paco\Notes\Notes.Models\bin\Debug\netcoreapp2.0\Notes.Models.pdb
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.csprojResolveAssemblyReference.cache
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.csproj.CoreCompileInputs.cache
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.AssemblyInfoInputs.cache
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.AssemblyInfo.cs
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.dll
+D:\Paco\Notes\Notes.Models\obj\Debug\netcoreapp2.0\Notes.Models.pdb

@@ -1,0 +1,8 @@
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\bin\Release\netcoreapp2.0\WebServer.deps.json
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\bin\Release\netcoreapp2.0\WebServer.dll
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\bin\Release\netcoreapp2.0\WebServer.pdb
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\obj\Release\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\obj\Release\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\obj\Release\netcoreapp2.0\WebServer.AssemblyInfo.cs
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\obj\Release\netcoreapp2.0\WebServer.dll
+D:\Paco\SoftUni-C#-Web-MVC-Framework-Test-App\WebServer\obj\Release\netcoreapp2.0\WebServer.pdb
